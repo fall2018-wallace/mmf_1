@@ -9,4 +9,5 @@ CleandfStates <- function()
     return (dfStates)
 }
 
-CleandfStates()
+states<-CleandfStates() 
+states

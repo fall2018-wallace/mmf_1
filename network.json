@@ -34,8 +34,12 @@
         },
         {
             "name": "data.csv"
+        },
+        {
+            "desc": "download census data",
+            "name": "download_data.R"
         }
     ],
-    "updated_at": "2018-09-27 16:42:56",
+    "updated_at": "2018-09-27 17:03:49",
     "url": "https://github.com/fall2018-wallace/mmf_1"
 }

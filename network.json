@@ -36,10 +36,12 @@
             "name": "data.csv"
         },
         {
+            "assigned_to": "not assigned",
             "desc": "download census data",
-            "name": "download_data.R"
+            "name": "download_data.R",
+            "task_status": "proposed"
         }
     ],
-    "updated_at": "2018-09-27 17:03:49",
+    "updated_at": "2018-09-27 17:07:42",
     "url": "https://github.com/fall2018-wallace/mmf_1"
 }

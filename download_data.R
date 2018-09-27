@@ -10,4 +10,3 @@ CleandfStates <- function()
 }
 
 states<-CleandfStates() 
-states

@@ -8,3 +8,5 @@ CleandfStates <- function()
 
     return (dfStates)
 }
+
+CleandfStates()
